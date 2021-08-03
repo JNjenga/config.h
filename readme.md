@@ -1,5 +1,6 @@
 # config.h
 
+=======
 An attempt to create a C++ single header library that allows hot loading of variables from a custom file format.
 
 ## Motivation?
